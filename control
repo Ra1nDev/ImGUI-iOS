@@ -1,0 +1,8 @@
+Package: com.rain.imgui
+Name: github
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Cheat
+Maintainer: Ra1n
+Author: Ra1n
