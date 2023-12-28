@@ -23,7 +23,7 @@ Huy JIT Mod Menu is a template menu for iOS that supported patching offsets/hexe
 - Support Hooking (by MobileSubstrate)
 
 # Usage
-**3 fingers double tap to screen to open menu, 2 fingers double tap to disable menu**
+**3 fingers double tap to screen to open menu**
 
 Editing these in `Draw.mm`
 
